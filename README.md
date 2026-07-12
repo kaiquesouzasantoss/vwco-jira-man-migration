@@ -1,7 +1,7 @@
 <h1 align=center>VWCO – Migração de Dados do Jira</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kaiquesouzasantoss/vwco-sap-migracao-dados/refs/heads/main/vwco.jpg?token=GHSAT0AAAAAAEBJSIW3RXK55USTPDTZCVTY2SQ53QQ" width="100%">
+  <img src="https://raw.githubusercontent.com/kaiquesouzasantoss/vwco-sap-migracao-dados/refs/heads/main/vwco.jpg?token=GHSAT0AAAAAAEBJSIW3QITZJLW2TZORSVP22STQZNQ" width="100%">
 </p>
 
 ---
