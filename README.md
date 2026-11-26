@@ -1,7 +1,7 @@
 <h1 align=center>VWCO – Migração de Dados do Jira</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kaiquesouzasantoss/vwco-sap-migracao-dados/refs/heads/main/vwco.jpg?token=GHSAT0AAAAAAEBJSIW3QITZJLW2TZORSVP22STQZNQ" width="100%">
+  <img src="https://raw.githubusercontent.com/kaiquesouzasantoss/vwco-sap-migracao-dados/refs/heads/main/vwco.jpg" width="100%">
 </p>
 
 ---
@@ -62,6 +62,79 @@ A extração do acervo histórico do Jira é necessária porque parte relevante 
 
 A automação atua, portanto, como mecanismo de redução de risco operacional, documental e de auditoria.
 
+---
+
+## Atuação e Gestão da Iniciativa
+
+Além do desenvolvimento da automação de migração, fui responsável pela **gestão e coordenação da iniciativa de transição do Jira**, acompanhando as diferentes frentes necessárias para preservação do histórico, substituição dos processos ativos e descomissionamento do ambiente legado.
+
+A iniciativa envolveu **CoE de Power Platform, CoE de Dados, Infraestrutura de TI e áreas de negócio**, com atuação integrada entre os times.
+
+Minhas principais responsabilidades foram:
+
+- Gestão e coordenação geral da iniciativa.
+- Planejamento e acompanhamento das entregas.
+- Coordenação das dependências entre os times.
+- Acompanhamento de cronograma, riscos e impedimentos.
+- Alinhamento entre equipes técnicas e áreas de negócio.
+- Desenvolvimento e homologação da automação Python para migração do Jira.
+- Coordenação da estratégia de preservação do acervo histórico.
+- Atuação como **Product Owner (PO)** do Hub de Compras.
+- Coordenação de requisitos e validações com o CoE de Power Platform.
+- Acompanhamento da disponibilização do histórico no Power BI junto ao CoE de Dados.
+- Coordenação das dependências com Infraestrutura de TI.
+- Acompanhamento da migração dos processos em andamento.
+- Coordenação da transição para as novas soluções.
+- Acompanhamento do Go-Live e do descomissionamento do ambiente legado.
+
+### Entregas Integradas
+
+A iniciativa foi estruturada em quatro frentes principais:
+
+| Frente | Entrega |
+|---|---|
+| **Migração do Jira** | Automação Python para extração, organização e preservação do histórico |
+| **Hub de Compras** | Nova solução para substituir o processo de Compras de TI anteriormente mantido no Jira ITG |
+| **CoE de Dados / Power BI** | Disponibilização do histórico migrado para consulta |
+| **Infraestrutura de TI** | Suporte ao processamento, armazenamento e descomissionamento do ambiente legado |
+
+### Hub de Compras – CoE de Power Platform
+
+Atuei como **Product Owner (PO)** do Hub de Compras, solução criada para substituir o processo de solicitações de Compras de TI anteriormente suportado pelo Jira ITG.
+
+A frente contemplou:
+
+- Levantamento e consolidação de requisitos.
+- Definição do processo futuro (`To Be`).
+- Construção e validação de User Stories.
+- Definição de critérios de aceite.
+- Construção do Dicionário de Dados.
+- Definição de perfis e regras funcionais.
+- Acompanhamento das Sprints.
+- Validação funcional.
+- Migração das solicitações em andamento.
+- Entrada em produção da nova solução.
+
+### Histórico Jira – CoE de Dados / Power BI
+
+Em conjunto com o **CoE de Dados**, coordenei a frente responsável por disponibilizar o histórico preservado pela migração para consulta por meio do Microsoft Power BI.
+
+O objetivo foi manter o acesso às informações históricas mesmo após o desligamento do Jira legado.
+
+### Infraestrutura de TI
+
+Também coordenei as dependências com a **Infraestrutura de TI** relacionadas à execução da migração, armazenamento do acervo histórico, disponibilização dos dados e preparação para o desligamento do ambiente Jira.
+
+### Resultado
+
+A gestão integrada dessas frentes permitiu tratar a transição do Jira de ponta a ponta:
+
+1. **Preservação** do histórico por meio da automação Python.
+2. **Migração** dos processos ainda em andamento.
+3. **Substituição** do Jira ITG pelo Hub de Compras.
+4. **Disponibilização** do histórico no Power BI.
+5. **Adequação** da infraestrutura para armazenamento e consulta.
+6. **Descomissionamento** do ambiente legado após a conclusão da transição.
 ---
 
 ## Objetivo da Automação
